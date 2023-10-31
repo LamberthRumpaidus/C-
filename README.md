@@ -8,7 +8,7 @@ Repositori "cpp" ini berisi berbagai program yang dikembangkan dengan menggunaka
 
 ---
 ## Tentang Penulis
-Repositori ini dibuat oleh lamberthpaulinusrumpaidus, seorang pengembang perangkat lunak yang memiliki minat dalam bahasa pemrograman C++ dan berbagi berbagai program yang dikembangkan dengan bahasa ini.
+Repositori ini dibuat oleh [lamberthpaulinusrumpaidus](https://github.com/lamberthpaulinusrumpaidus), seorang pengembang perangkat lunak yang memiliki minat dalam bahasa pemrograman C++ dan berbagi berbagai program yang dikembangkan dengan bahasa ini.
 
 
 ---
