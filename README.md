@@ -18,11 +18,17 @@ Seluruh program dalam repository ini dikembangkan menggunakan bahasa pemrograman
 
 ---
 ## Cara Menggunakan Program
+
 **Langkah 1:** Instal kompiler C++ (seperti g++) jika belum diinstal di komputer Anda.
+
 **Langkah 2:** Clone repositori ini ke komputer Anda:
+
 **Langkah 3:** git clone https://github.com/LamberthPaulinusRumpaidus/cpp.git
+
 **Langkah 4:** cd cpp
+
 **Langkah 5:** g++ nama_program.cpp -o nama_program
+
 **Langkah 6:** ./nama_program
 
 
