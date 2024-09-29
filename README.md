@@ -8,7 +8,7 @@ Repositori "cpp" ini berisi berbagai program yang dikembangkan dengan menggunaka
 
 ---
 ## Tentang Penulis
-Repositori ini dibuat oleh [lamberthpaulinusrumpaidus](https://github.com/lamberthpaulinusrumpaidus), seorang pengembang perangkat lunak yang memiliki minat dalam bahasa pemrograman C++ dan berbagi berbagai program yang dikembangkan dengan bahasa ini.
+Repositori ini dibuat oleh [lamberthrumpaidus](https://github.com/lamberthrumpaidus), seorang pengembang perangkat lunak yang memiliki minat dalam bahasa pemrograman C++ dan berbagi berbagai program yang dikembangkan dengan bahasa ini.
 
 
 ---
@@ -23,7 +23,7 @@ Seluruh program dalam repository ini dikembangkan menggunakan bahasa pemrograman
 
 **Langkah 2:** Clone repositori ini ke komputer Anda:
 
-**Langkah 3:** git clone https://github.com/LamberthPaulinusRumpaidus/cpp.git
+**Langkah 3:** git clone https://github.com/LamberthRumpaidus/cpp.git
 
 **Langkah 4:** cd cpp
 
